@@ -1,0 +1,54 @@
+# Chinese translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-09-28 14:37+0800\n"
+"PO-Revision-Date: 2022-09-28 14:40+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh\n"
+"Language-Team: zh <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: templates/index.html:62 templates/next.html:62
+msgid "Design better."
+msgstr "设计得更好。"
+
+#: templates/index.html:63 templates/next.html:63
+msgid ""
+"Design Mobile UI faster and better with our product and produce "
+"professional designs for your business"
+msgstr "使用我们的产品更快更好地设计移动UI，并为您的业务制作专业设计。"
+
+#: templates/index.html:67 templates/next.html:67
+msgid "Email"
+msgstr "电子邮件"
+
+#: templates/index.html:69 templates/next.html:69
+msgid "Join Waitlist"
+msgstr "加入候补名单"
+
+#: templates/index.html:71 templates/next.html:71
+msgid "Available on Android and iOS."
+msgstr "可在Android和iOS。"
+
+#: templates/index.html:86 templates/next.html:86
+msgid "Features"
+msgstr "特点"
+
+#: templates/index.html:87 templates/next.html:87
+msgid "Help"
+msgstr "帮帮忙"
+
+#: templates/index.html:88 templates/next.html:88
+msgid "Terms"
+msgstr "条款"
+
